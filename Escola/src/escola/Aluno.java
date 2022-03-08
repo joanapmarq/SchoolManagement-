@@ -8,10 +8,7 @@ package escola;
 import java.util.ArrayList;
 import java.io.Serializable;
 
-/**
- *
- * @author PCRVa
- */
+
 class Aluno extends Pessoa implements Serializable {
 
    private static final long serialVersionUID = 1L;
